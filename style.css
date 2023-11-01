@@ -86,6 +86,7 @@ html , body , .container{
     background: url("photo_6201833652330019728_y.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: 50%;
     position: static;
     display: flex;
     justify-content: center;
