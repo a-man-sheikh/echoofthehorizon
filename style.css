@@ -91,23 +91,22 @@ html , body , .container{
     display: flex;
     justify-content: center;
     align-items: center;
- 
 
    }
    .welcome{
-    width: auto;
+    gap: 30px;
     height: 35vh;
    }
     
     .head1{
        
-      
-        font-size: 6vw;
+        margin: 0px;
+        font-size: 2rem;
     }
     .head2{
      
-        margin: 30px;
-        font-size: 4.5rem;
+       
+        font-size: 4.8rem;
         font-weight: 900;
     }
     .head3{
