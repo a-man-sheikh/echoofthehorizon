@@ -94,11 +94,15 @@ html , body , .container{
  
 
    }
+   .welcome{
+    width: auto;
+    height: 35vh;
+   }
     
     .head1{
        
-        margin: 0px;
-        font-size: 5vw;
+      
+        font-size: 6vw;
     }
     .head2{
      
