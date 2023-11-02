@@ -47,11 +47,7 @@ html , body , .container{
 }
 .welcome-contain{
     position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    left: 25%;
-    z-index: 1;
+    margin:auto;
   
 }
 .welcome{
